@@ -13,7 +13,10 @@ Coding practice
 
 <p>Powerful Careers – Legendary Innovations. Raytheon offers a wealth of opportunities for your future and beyond. Bring your talent and skills to a company where challenging the status quo and innovative thinking is encouraged. Our recent college graduate and internship/co-op opportunities allow you to put your academic achievements to work. You'll be presented with opportunities that have an immediate impact on who we are and our presence in a global industry.</p>
 
-
+<p> 
+  To learm more, <a href="#" target="_blank">click this link</a>
+  </p>
 
 
 <footer id="footer">Last Page</footer>
+
