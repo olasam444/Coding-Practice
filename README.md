@@ -16,6 +16,11 @@ Coding practice
 <p> 
   To learm more, <a href="#" target="_blank">click this link</a>
   </p>
+  <ul>
+  <li>Ceate a deadline</li>
+  <li> Set realistic goals</li>
+  <li> achieve your goals</li>
+  </ul>
 
 
 <footer id="footer">Last Page</footer>
