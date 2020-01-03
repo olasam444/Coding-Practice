@@ -27,6 +27,8 @@ Coding practice
   <li>Be Steadfast</li>
   <li>Be truthful</li>
   </ol>
+  
+  <img src="https://unsplash.com/photos/FopdGLN9STI" alt="setting realistic goals">
 
 
 <footer id="footer">Last Page</footer>
