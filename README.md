@@ -29,9 +29,10 @@ Coding practice
   </ol>
   
   <img src="https://unsplash.com/photos/FopdGLN9STI" alt="setting realistic goals">
-  
+  <form>
   <input type="text" placeholder="Surname">
-
+  <button type="submit>SUbmit</button>
+</form>
 
 <footer id="footer">Last Page</footer>
 
