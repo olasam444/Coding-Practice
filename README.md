@@ -21,6 +21,12 @@ Coding practice
   <li> Set realistic goals</li>
   <li> achieve your goals</li>
   </ul>
+  <p>Top Plans For The New Year</P>
+  <ol>
+  <li>Be prayerful</li>
+  <li>Be Steadfast</li>
+  <li>Be truthful</li>
+  </ol>
 
 
 <footer id="footer">Last Page</footer>
