@@ -30,7 +30,7 @@ Coding practice
   
   <img src="https://unsplash.com/photos/FopdGLN9STI" alt="setting realistic goals">
   
-  <input type="text">
+  <input type="text" placeholder="Surname">
 
 
 <footer id="footer">Last Page</footer>
