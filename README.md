@@ -29,6 +29,8 @@ Coding practice
   </ol>
   
   <img src="https://unsplash.com/photos/FopdGLN9STI" alt="setting realistic goals">
+  
+  <input type="text">
 
 
 <footer id="footer">Last Page</footer>
