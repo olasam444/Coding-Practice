@@ -2,6 +2,10 @@
 <html>
 # Coding-Practice
 Coding practice
+  <style>
+    h1 { colour: blue;}
+  </style>
+  
 <main>
   
   <a href="#footer">go to last page</a>
