@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 # Coding-Practice
 Coding practice
 <main>
@@ -38,4 +40,4 @@ Coding practice
 </form>
 
 <footer id="footer">Last Page</footer>
-
+</html>
