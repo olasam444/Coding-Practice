@@ -17,6 +17,8 @@ Coding practice
   To learm more, <a href="#" target="_blank">click this link</a>
   </p>
   <ul>
+  <div>
+  <p>MY LIST</p>
   <li>Ceate a deadline</li>
   <li> Set realistic goals</li>
   <li> achieve your goals</li>
@@ -27,6 +29,7 @@ Coding practice
   <li>Be Steadfast</li>
   <li>Be truthful</li>
   </ol>
+  </div>
   
   <img src="https://unsplash.com/photos/FopdGLN9STI" alt="setting realistic goals">
   <form>
