@@ -5,7 +5,7 @@ Coding practice
 <main>
   
   <a href="#footer">go to last page</a>
-<h1>THE NEW YEAR 2020</h1>
+<h1 style="color: blue;">THE NEW YEAR 2020</h1>
 <h2>My New Year Resolution</h2>
 </main>
 
