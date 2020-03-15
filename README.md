@@ -4,12 +4,8 @@
 # Coding-Practice
 Coding practice
 -->
-
- 
+# Hello- World
   
-  <body>
-<h1 class="mystyle">THE NEW YEAR 2020</h1>
-    <h2 style="color: red;"> This year is the best</h2>
-  </body>
+This is my first codding practice
   
-</html>
+I love :singing: :dancing: and :pizza:  
