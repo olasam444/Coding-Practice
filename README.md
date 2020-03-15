@@ -1,11 +1,13 @@
-<!DOCTRYPE html>
+<!DOCTYPE html>
 <html>
   <!--
 # Coding-Practice
 Coding practice
 -->
-# Hello- World
+# Hello-World
   
 This is my first codding practice
   
-I love :singing: :dancing: and :pizza:  
+I love to sing, run and eat :banana:.
+
+</html>
