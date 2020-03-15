@@ -1,15 +1,15 @@
-<!DOCTRYPE html>
+<!DOCTYPE html>
 <html>
   <!--
 # Coding-Practice
 Coding practice
 -->
-<head>
-  h1.mystyle { color: blue; }
+<head><title>
+  coding practice </title>
   </head>
   <body>
-<h1 class="mystyle">THE NEW YEAR 2020</h1>
-    <h2 style="color: red;"> This year is the best</h2>
-  </body>
+<h1>THE NEW YEAR 2020</h1>
+    <h2> This year is the best</h2>
+  
   
 </html>
